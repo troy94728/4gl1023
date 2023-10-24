@@ -14,7 +14,7 @@
       <header>Registration Form</header>
       <form action="#" class="form">
         <div class="input-box">
-          <label>asdfasdfadfsdfasdfFull Name</label>
+          <label>asdfasdfadfsdfasdfFull Nameasdfsadf</label>
           <input type="text" placeholder="Enter full name" required />
         </div>
 
