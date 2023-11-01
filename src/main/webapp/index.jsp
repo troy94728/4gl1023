@@ -11,7 +11,7 @@
   </head>
   <body>
     <section class="container">
-      <header>Registration Form</header>
+      <header>Registration bbbbbbbbbbbbbbbForm</header>
       <form action="#" class="form">
         <div class="input-box">
           <label>asdfasdfadfsdfasdfFull Nameasdfsadf</label>
